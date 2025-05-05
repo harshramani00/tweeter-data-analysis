@@ -1,0 +1,9 @@
+[Task-1]
+non-distributed/local: 792.15 seconds, Peak memory: 79.12 MB
+Hadoop-on-GCP: Map Time ~1680.93 sec, Reduce Time ~46.99 sec, CPU Time ~659 sec, GC Time ~10.9 sec
+Spark-on-GCP: 2.9 minutes (~174 seconds), Stream Write Bytes: ~1.6 MB
+
+[Task-2]
+non-distributed/local: 740.26 seconds, Peak memory: 82.98 MB
+Hadoop-on-GCP: Map Time ~1555.2 sec, Reduce Time ~35.97 sec, CPU Time ~504.74 sec, GC Time ~10.1 sec
+Spark-on-GCP: ~5 min 21 sec (~321 seconds), Output Written: ~3.03 MB

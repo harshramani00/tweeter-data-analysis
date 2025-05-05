@@ -1,0 +1,8 @@
+[local setup]
+number of CPUs/cores: 3
+amount of memory in GBs: 24 (8 GB per CPU)
+
+[GCP setup]
+number of worker nodes: 2
+number of vCPUs per worker node: 4
+amount of memory in GBs per worker node: 100
